@@ -1,0 +1,147 @@
+#myImg1 {
+    content: url('1.jpg');
+    width: 500px;
+    height: 410px;
+    border-radius: 10px;
+
+}
+
+#img2-1 {
+    content: url('1.jpg');
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+#img2-2 {
+    content: url('2.jpg');
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+
+}
+
+.td-txt {
+    vertical-align: top;
+
+}
+
+.more-info {
+    display: inline-block;
+}
+
+.more-info>p {
+    display: inline;
+    border: 2px solid #ca5454;
+    border-radius: 20px;
+    padding: 9px;
+    text-align: center;
+
+}
+
+#t {
+    position: relative;
+    bottom: 0;
+
+
+}
+
+.sort {
+    width: 100%;
+    height: 110px;
+    background: #f8c4c4;
+    padding: 20px;
+    border-radius: 2%;
+    display: inline-block;
+
+}
+
+body {
+    box-sizing: border-box;
+
+}
+
+.sort>p {
+    display: inline;
+    border: 2px solid #0d0c0c;
+    border-radius: 20px;
+    padding: 8px;
+    text-align: center;
+
+}
+
+.sort>p:nth-last-child(1) {
+    background: #000;
+    color: aliceblue;
+}
+
+/*
+.#myImg2 {
+    content: url('1.jpg');
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: -200px;
+    position: absolute;
+
+
+}
+
+.#myImg3 {
+    content: url('2.jpg');
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    margin-top: -200px;
+
+
+}
+
+.txt {
+    width: 500px;
+    height: 30px;
+}
+
+.img-col1 {
+    width: 150px;
+    height: 150px;
+    display: table-cell;
+    background-color: rgb(193, 235, 222);
+
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.img2-col2 {
+    width: 250px;
+    height: 250px;
+    display: table-cell;
+    background-color: rgb(248, 240, 198);
+}
+
+.img3-col2-row1 {
+    width: 100px;
+    height: 30px;
+}
+
+.img4-col2-row2 {
+    width: 100px;
+    height: 30px;
+}
+
+.txt {
+    width: 500px;
+    height: 30px;
+    display: table-cell;
+    background-color: rgb(231, 231, 246);
+}
+
+.sort {
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(242, 210, 128);
+    padding-top: 2px;
+    padding-left: 20px;
+} */
